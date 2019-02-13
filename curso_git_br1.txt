@@ -1,2 +1,4 @@
 Brazil
-ls -al --lista longa de arquivos
+ls-al --lista longa de arquivos
+log
+log2
