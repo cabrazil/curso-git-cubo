@@ -4,3 +4,5 @@ log
 log2
 kill
 go
+branch
+master
